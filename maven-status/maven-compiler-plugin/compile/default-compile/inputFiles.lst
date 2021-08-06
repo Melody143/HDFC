@@ -1,0 +1,11 @@
+/home/ubuntu/Manu/Fdcard/src/main/java/HDFC/controller/BaseAction.java
+/home/ubuntu/Manu/Fdcard/src/main/java/HDFC/interceptor/ValidaLogin.java
+/home/ubuntu/Manu/Fdcard/src/main/java/HDFC/util/HibernateUtil.java
+/home/ubuntu/Manu/Fdcard/src/main/java/HDFC/controller/LoginAction.java
+/home/ubuntu/Manu/Fdcard/src/main/java/HDFC/exceptions/UsuarioNAutorizado.java
+/home/ubuntu/Manu/Fdcard/src/main/java/HDFC/model/Usuario.java
+/home/ubuntu/Manu/Fdcard/src/main/java/HDFC/services/AppPersist.java
+/home/ubuntu/Manu/Fdcard/src/main/java/HDFC/util/SQLAutentica.java
+/home/ubuntu/Manu/Fdcard/src/main/java/HDFC/controller/HelloAction.java
+/home/ubuntu/Manu/Fdcard/src/main/java/HDFC/util/Misc.java
+/home/ubuntu/Manu/Fdcard/src/main/java/HDFC/services/ControleUsuario.java

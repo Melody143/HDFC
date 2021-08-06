@@ -1,0 +1,11 @@
+HDFC/model/Usuario.class
+HDFC/services/AppPersist.class
+HDFC/exceptions/UsuarioNAutorizado.class
+HDFC/services/ControleUsuario.class
+HDFC/util/HibernateUtil.class
+HDFC/interceptor/ValidaLogin.class
+HDFC/controller/HelloAction.class
+HDFC/controller/BaseAction.class
+HDFC/controller/LoginAction.class
+HDFC/util/Misc.class
+HDFC/util/SQLAutentica.class
